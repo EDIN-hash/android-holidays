@@ -1,0 +1,3 @@
+requirements = python3,pygame
+source.include_exts = py,png,jpg,kv,atlas,mp3,ogg
+android.permissions = INTERNET, VIBRATE
